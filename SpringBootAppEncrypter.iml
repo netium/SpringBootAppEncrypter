@@ -10,7 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="xjar-2.0.9-jar-with-dependencies" level="project" />
-    <orderEntry type="library" name="Maven: com.github.core-lib:xjar:11.0.9" level="project" />
+    <orderEntry type="library" name="Maven: com.github.netium:xjar:v2.0.9-jre9" level="project" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.4" level="project" />
   </component>
 </module>

@@ -29,9 +29,9 @@
         </dependency>
         -->
         <dependency>
-            <groupId>com.github.core-lib</groupId>
+            <groupId>com.github.netium</groupId>
             <artifactId>xjar</artifactId>
-            <version>11.0.9</version>
+            <version>v2.0.9-jre9</version>
         </dependency>
         <dependency>
             <groupId>commons-cli</groupId>
