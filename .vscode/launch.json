@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "-s \"C:\\git\\EncryptedSprintBootApp\\target\\spring-boot-0.0.1-SNAPSHOT.jar\" -d c:\\git\\b.jar -p password -D -b",
+            "vmArgs": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Application<SpringBootAppEncrypter>",
+            "request": "launch",
+            "mainClass": "io.netium.sprintbootappencrytor.Application",
+            "projectName": "SpringBootAppEncrypter"
+        }
+    ]
+}

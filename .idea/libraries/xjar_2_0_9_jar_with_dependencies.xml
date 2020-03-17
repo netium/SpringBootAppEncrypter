@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xjar-2.0.9-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../xjar/target/xjar-2.0.9-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
